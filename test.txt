@@ -1,3 +1,4 @@
 Hello my test github txt!
 Edit this line @github.
 Edit @local.
+Commit has push @github.
